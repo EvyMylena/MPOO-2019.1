@@ -9,6 +9,8 @@ public class Application {
 		HelloWorld helloWorld3=new HelloWorld();
 		helloWorld3.setName("João");
 		helloWorld3.imprimir();
+		HelloWorld helloWorld4=new HelloWorld();
+		helloWorld4.imprimir();
 	}
 
 }
